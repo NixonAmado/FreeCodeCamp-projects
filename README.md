@@ -15,7 +15,7 @@ Bienvenido a mi repositorio de proyectos básicos de HTML y CSS, completados com
 - HTML5
 - CSS3
 
- ##Visualización
+ ## Visualización
 En este caso no puede hacer uso de github pages para la visualización,ya que son varios proyectos almacenados, pero se hizo una buena estructura para la descarga y la vista de estos sitios
 
 Hay que resaltar que estos proyectos son basicos y muestran un poco de mi manejo de html y css.
